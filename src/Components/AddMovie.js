@@ -41,7 +41,8 @@ const AddMovie = () => {
   <div class="container px-5 py-8 mx-auto">
     <div class="flex flex-col text-center w-full mb-4">
       <h1 class="sm:text-3xl text-xl font-medium title-font mb-4 text-white">Add Movie</h1>
-      <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-white">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.</p>
+      <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-white">
+        Just like spit on movies  whatever your thoughts on movies is it bad or good....</p>
     </div>
     <div class="lg:w-1/2 md:w-2/3 mx-auto">
       <div class="flex flex-wrap -m-2">
